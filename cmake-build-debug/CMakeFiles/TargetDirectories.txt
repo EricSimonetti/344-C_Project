@@ -1,0 +1,3 @@
+/home/csc241/Desktop/Assignments/second_semester/programming_languages/c_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/csc241/Desktop/Assignments/second_semester/programming_languages/c_project/cmake-build-debug/CMakeFiles/assignment_1.dir
+/home/csc241/Desktop/Assignments/second_semester/programming_languages/c_project/cmake-build-debug/CMakeFiles/edit_cache.dir
